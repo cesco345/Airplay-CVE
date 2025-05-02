@@ -1,5 +1,4 @@
 // src/main.rs
-// COMPLETELY REPLACE YOUR EXISTING MAIN.RS WITH THIS FILE
 
 use colored::*;
 use std::time::Duration;
