@@ -1,0 +1,10 @@
+{
+    "scan_info": {
+        "timestamp": "2025-05-02 08:45:10",
+        "target_range": null,
+        "total_devices": 0,
+        "high_risk_count": 0,
+        "medium_risk_count": 0
+    },
+    "devices": {}
+}

@@ -174,7 +174,7 @@ pub fn run_python_scanner() -> HashMap<IpAddr, AirPlayDevice> {
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/airplay-cve.git
+   git clone https://github.com/cesco345/airplay-cve.git
    cd airplay-cve
    ```
 

@@ -1,0 +1,23 @@
+2025-05-02 08:44:57,870 - AirBorneChecker - INFO - [1m[95m
+2025-05-02 08:44:57,870 - AirBorneChecker - INFO - ================================================================================
+2025-05-02 08:44:57,870 - AirBorneChecker - INFO -            AirBorne Vulnerability Checker (CVE-2025-24132)           
+2025-05-02 08:44:57,870 - AirBorneChecker - INFO -            For security education and testing only                   
+2025-05-02 08:44:57,870 - AirBorneChecker - INFO - ================================================================================
+2025-05-02 08:44:57,870 - AirBorneChecker - INFO - [0m
+2025-05-02 08:44:57,870 - AirBorneChecker - INFO - [95mLooking for AirPlay devices with mDNS...[0m
+2025-05-02 08:44:57,872 - AirBorneChecker - INFO - Listening for mDNS announcements for 5 seconds...
+2025-05-02 08:45:02,880 - AirBorneChecker - INFO - [95mScanning network 127.0.0.0/24 for devices vulnerable to AirBorne (CVE-2025-24132)...[0m
+2025-05-02 08:45:02,880 - AirBorneChecker - INFO - [95mThis may take a few minutes...[0m
+2025-05-02 08:45:02,881 - AirBorneChecker - INFO - Scanning 254 hosts for AirPlay vulnerabilities...
+2025-05-02 08:45:10,416 - AirBorneChecker - WARNING - [93mNo vulnerable AirPlay devices discovered.[0m
+2025-05-02 08:45:10,418 - AirBorneChecker - INFO - [92mResults exported to airborne_scan/airborne_scan_results_20250502_084510.json[0m
+2025-05-02 08:45:10,418 - AirBorneChecker - INFO - 
+[95mSecurity Recommendations:[0m
+2025-05-02 08:45:10,418 - AirBorneChecker - INFO - 1. Update all Apple devices to the latest OS versions
+2025-05-02 08:45:10,418 - AirBorneChecker - INFO - 2. Update firmware on third-party AirPlay devices if updates are available
+2025-05-02 08:45:10,418 - AirBorneChecker - INFO - 3. Consider network segmentation for devices that cannot be updated
+2025-05-02 08:45:10,418 - AirBorneChecker - INFO - 4. Disable AirPlay on devices not actively using it
+2025-05-02 08:45:10,418 - AirBorneChecker - INFO - 5. Monitor for suspicious AirPlay activities on your network
+2025-05-02 08:45:10,418 - AirBorneChecker - INFO - 
+[93mThis check was performed for educational and security purposes only.[0m
+2025-05-02 08:45:10,418 - AirBorneChecker - INFO - [93mResults saved to: airborne_scan/airborne_scan_results_20250502_084510.json[0m

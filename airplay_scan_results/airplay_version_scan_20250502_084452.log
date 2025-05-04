@@ -1,0 +1,9 @@
+2025-05-02 08:44:52,753 - AirPlayVersionDetector - INFO - [1m[95m
+2025-05-02 08:44:52,754 - AirPlayVersionDetector - INFO - ================================================================================
+2025-05-02 08:44:52,754 - AirPlayVersionDetector - INFO -          Enhanced AirPlay Version Detector for CVE-2025-24132           
+2025-05-02 08:44:52,754 - AirPlayVersionDetector - INFO -          For security education and testing only                        
+2025-05-02 08:44:52,754 - AirPlayVersionDetector - INFO - ================================================================================
+2025-05-02 08:44:52,754 - AirPlayVersionDetector - INFO - [0m
+2025-05-02 08:44:52,772 - AirPlayVersionDetector - INFO - [95mLooking for AirPlay devices with mDNS...[0m
+2025-05-02 08:44:52,774 - AirPlayVersionDetector - INFO - Listening for mDNS announcements for 5 seconds...
+2025-05-02 08:44:57,782 - AirPlayVersionDetector - ERROR - Error determining network range: name 'ipaddress' is not defined
