@@ -181,7 +181,13 @@ pub fn run_python_scanner() -> HashMap<IpAddr, AirPlayDevice> {
 2. **Set up Python environment**:
 
    ```bash
-   conda env create -f environment.yml
+   Basic environment.
+   conda create -n <environment_name>
+
+   Environment with a specific Python version.
+   conda create -n myenv python=3.9
+
+   Activate the environment
    conda activate airplay_scanner
    ```
 
